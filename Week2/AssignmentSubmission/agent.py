@@ -1,8 +1,5 @@
 import numpy as np
 import random
-from decimal import Decimal, getcontext
-
-getcontext().prec = 6
 
 # file_path = "../Assignment/MDPs/mdp-2-2.txt"
 file_path = "../Assignment/MDPs/mdp-10-5.txt"
